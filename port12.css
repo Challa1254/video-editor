@@ -346,10 +346,10 @@
             transition: 0.5s;
         }
         
-        .project-box:hover .project-layer {
+/*         .project-box:hover .project-layer {
             transform: translateY(0);
         }
-        
+         */
         .project-layer h4 {
             font-size: 1.5rem;
             margin-bottom: 10px;
